@@ -2,5 +2,6 @@
 
 1. open terminal
 2. cd to your root project folder
-3. run go build
-4. ./project_folder_name
+3. export PORT=8300
+4. run go build
+5. ./project_folder_name
