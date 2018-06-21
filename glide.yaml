@@ -1,0 +1,5 @@
+package: .
+import:
+- package: gopkg.in/mgo.v2
+- package: github.com/gorilla/mux
+  version: v1.6.2
